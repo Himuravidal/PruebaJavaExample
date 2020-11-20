@@ -13,6 +13,7 @@ public class Main2 {
 		listaNombres.add("Criss");
 		listaNombres.add("Ana");
 		listaNombres.add("Diana");
+		listaNombres.add("Joaquin");
 		listaNombres.add("Pedro");
 		
 		//System.out.println("Lista de Nombres: " + listaNombres);
