@@ -10,6 +10,7 @@ public class Main {
 		int ex = 10;
 		int exdsd = 10;
 		int cantidadTrabajador = 20;	
+		int otraVariable = 100;
 		
 		int MESES_DEL_AÑO;
 		
