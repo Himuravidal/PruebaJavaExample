@@ -25,6 +25,7 @@ public class Main2 {
 	//	System.out.println("Lista de Nombres: Nuevos " + listaNombres);
 		
 		String name = "Daniela";
+		String name2 = "Rafael";
 		
 		listaNombres.add(name);
 		
